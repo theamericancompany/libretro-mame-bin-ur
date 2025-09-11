@@ -69,7 +69,14 @@ _http="https://github.com"
 _ns="libretro"
 url="${_http}/${_ns}/${_pkg}"
 license=(
-  'GPL2'
+  "BSD-2-Clause"
+  "BSD-3-Clause"
+  "BSL-1.0"
+  "CC0-1.0"
+  "GPL-2.0-only"
+  "LGPL-2.1-only"
+  "MIT"
+  "Zlib"
 )
 depends=(
   'retroarch'
